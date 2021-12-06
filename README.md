@@ -21,11 +21,11 @@ binoyt
 </p>
        
   <p align="center">
-<a href="https://github.com/binoyt"><img title="Author" src="https://img.shields.io/badge/Author-binoyt?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/binoyt55/bgmi"><img title="Author" src="https://img.shields.io/badge/Author-binoyt?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/binoyt">binoyt</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/binoyt55/bgmi">binoyt</a>
     <br>
        | © |
         Reserved |
@@ -128,7 +128,7 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
     
   [![binoyt](https://github.com/binoyt.png?size=100)](https://github.com/binoyt) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[MUHAMMED](https://github.com/binoyt) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[BINOJ](https://github.com/binoyt55/bgmi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
